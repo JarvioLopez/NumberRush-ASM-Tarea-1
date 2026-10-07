@@ -1,0 +1,8 @@
+NUMBER RUSH 64-bit - Elige el numero MAS GRANDE
+===============================================
+Jugar: compilar.bat (crea NumberRush.exe) y abre NumberRush.exe.
+Menu: Flechas + ENTER (1=Jugar 2=Salir).
+Juego: mueve el cursor ► con Flechas + ENTER para elegir.
+Atajos: 1/2 eligen directo, q sale. Pausas: cualquier tecla.
+10 rondas, 3 vidas, +10 por acierto. Solo Windows 64.
+Codigo: NumberRush.asm (NASM win64 + GoLink, API: WriteFile/ReadFile/GetTickCount/Beep).
